@@ -42,7 +42,11 @@ Welcome to my GitHub profile! I'm a passionate student pursuing a **B.S. in Data
 ## 💻 Technical Skills:
 - **Programming Languages:** <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
-</div>Python, Java, JavaScript, C++
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
+</div>
+
+Python, Java, JavaScript, C++
 - **Web Development:** Flask, SQLAlchemy, HTML, CSS
 - **Data Science:** Pandas, NumPy, Scikit-Learn
 - **Databases:** MySQL, SQLite
