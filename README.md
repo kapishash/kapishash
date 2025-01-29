@@ -1,24 +1,7 @@
-## 😎 Hey! Nice to see you.
 
----
-I am Kapish Ashtankar
-<!--
-**kapishash/kapishash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 I'm Kapishankar Ashtankar
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there! 👋 I'm Kapishankar Sanjay Ashtankar
-
-Welcome to my GitHub profile! I'm a passionate student pursuing a **B.S. in Data Science and Applications** at **IIT Madras**. I enjoy exploring various fields of technology, especially **Machine Learning**, **Data Analysis**, and **Web Development**.
+Welcome to my GitHub profile! I'm a passionate student pursuing a **B.S. in Data Science and Applications** at **IIT Madras**. I enjoy exploring various fields of technology, especially **Machine Learning**, **Data Science**, **Data Analysis**, and **Web Development**.
 
 ---
 
