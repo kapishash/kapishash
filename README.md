@@ -16,5 +16,50 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there! 👋 I'm Kapishankar Sanjay Ashtankar
+
+Welcome to my GitHub profile! I'm a passionate student pursuing a **B.S. in Data Science and Applications** at **IIT Madras**. I enjoy exploring various fields of technology, especially **Machine Learning**, **Data Analysis**, and **Web Development**.
+
+---
+
+## 🌐 About Me:
+- 🎓 **Education:** B.S. in Data Science and Applications, IIT Madras  
+- 🤖 **Interests:** Machine Learning, AI Prototyping, Full-Stack Development  
+- 🔮 **Currently Learning:** C++ and Java for Problem-Solving  
+- 📊 **Projects:** Business Data Management Capstone and Household Services Application  
+- 💡 **Goals:** Building AI-based solutions for small/medium businesses  
+
+---
+
+## 📝 My Ongoing Projects:
+- **Household Services Application:** A platform connecting service professionals with customers for home services.
+- **Classification Project:** Predicting customer subscription to bank term deposits based on marketing campaign data.
+- **BDM Capstone Project:** Providing data-driven insights for B-C Kirana Shop.
+- **AI Product Prototyping:** Developing AI solutions for small and medium-sized businesses.
+
+---
+
+## 💻 Technical Skills:
+- **Programming Languages:** Python, Java, JavaScript, C++
+- **Web Development:** Flask, SQLAlchemy, HTML, CSS
+- **Data Science:** Pandas, NumPy, Scikit-Learn
+- **Databases:** MySQL, SQLite
+- **Tools & Platforms:** Kaggle, Git, VSCode
+
+---
+
+## 📊 GitHub Stats:
+![Kapishankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=KapishankarAshtankar&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KapishankarAshtankar&layout=compact)](https://github.com/KapishankarAshtankar)
+
+---
+
+## 💌 Let's Connect!
+- **LinkedIn:** [Kapishankar Ashtankar](https://linkedin.com/in/kapish-ash/)  
+- **Email:** kapishankar.ashtankar@example.com  
+
+Thank you for visiting my profile! Feel free to connect or collaborate on projects. Let's build something amazing together! 🛠️👩‍💻
+
 
 
