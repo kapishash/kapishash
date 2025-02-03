@@ -14,14 +14,6 @@ Welcome to my GitHub profile! I'm a passionate student pursuing a **B.S. in Data
 
 ---
 
-## 📝 My Ongoing Projects:
-- **Household Services Application:** A platform connecting service professionals with customers for home services.
-- **Classification Project:** Predicting customer subscription to bank term deposits based on marketing campaign data.
-- **BDM Capstone Project:** Providing data-driven insights for B-C Kirana Shop.
-- **AI Product Prototyping:** Developing AI solutions for small and medium-sized businesses.
-
----
-
 ## 💻 Technical Skills:
 - **Programming Languages:** <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
