@@ -22,11 +22,11 @@ Welcome to my GitHub profile! I'm a passionate student pursuing a **B.S. in Data
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
 </div>
 
-Python, Java, JavaScript, C++
+Python, Java, JavaScript, C++, Linux
 - **Web Development:** Flask, SQLAlchemy, HTML, CSS
-- **Data Science:** Pandas, NumPy, Scikit-Learn
+- **Data Science:** Pandas, NumPy, Scikit-Learn, Tenserflo, HuggungFace, CV, NLP
 - **Databases:** MySQL, SQLite
-- **Tools & Platforms:** Kaggle, Git, VSCode
+- **Tools & Platforms:** Kaggle, Git, VSCode, 
 
 ---
 <!--
