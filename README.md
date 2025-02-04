@@ -5,14 +5,7 @@ Welcome to my GitHub profile! I'm a passionate student pursuing a **B.S. in Data
 
 ---
 
-## 🌐 About Me:
-- 🎓 **Education:** B.S. in Data Science and Applications, IIT Madras  
-- 🤖 **Interests:** Machine Learning, AI Prototyping, Full-Stack Development  
-- 🔮 **Currently Learning:** C++ and Java for Problem-Solving  
-- 📊 **Projects:** Business Data Management Capstone and Household Services Application  
-- 💡 **Goals:** Building AI-based solutions for small/medium businesses  
 
----
 
 ## 💻 Technical Skills:
 - **Programming Languages:** <div align="center">
@@ -22,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate student pursuing a **B.S. in Data
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
 </div>
 
-Python, Java, JavaScript, C++, Linux
+Python, Java, JavaScript, Linux
 - **Web Development:** Flask, SQLAlchemy, HTML, CSS
 - **Data Science:** Pandas, NumPy, Scikit-Learn, Tenserflo, HuggungFace, CV, NLP
 - **Databases:** MySQL, SQLite
