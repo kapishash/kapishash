@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate student pursuing a **B.S. in Data
 
 Python, Java, JavaScript, Linux
 - **Web Development:** Flask, SQLAlchemy, HTML, CSS
-- **Data Science:** Pandas, NumPy, Scikit-Learn, Tenserflo, HuggungFace, CV, NLP
+- **Data Science:** Pandas, NumPy, Scikit-Learn, Tenserflow, HuggungFace, CV, NLP
 - **Databases:** MySQL, SQLite
 - **Tools & Platforms:** Kaggle, Git, VSCode, 
 
